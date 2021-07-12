@@ -25,11 +25,6 @@
 </a> 
 
 
-## Random joke for you!
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ficanhazdadjoke.com%2F&label=&query=$.joke&color=blue&cacheSeconds=1" width="1000">
-
-<!-- If you're copying this please give a little credit -->
-
 
 ## Skills
 
