@@ -72,3 +72,11 @@
 
 <!-- If you're copying this please give a little credit -->
 
+
+## Recent Talks
+
+- Devops Session on AuraEd
+- Python Workshop on CSITAN (2 Days)
+- Python Workshop on KUCMC (2 Days)
+- Django Workshop on Mega College (One Week)
+
